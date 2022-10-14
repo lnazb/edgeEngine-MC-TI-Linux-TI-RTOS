@@ -1,4 +1,5 @@
-# edgeEngine-ti-linux
+# edgeEngine-MC-TI-Linux-TI-RTOS
+
 edgeEngine for TI Linux Platform
 
 # Installation Guide
